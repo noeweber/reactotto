@@ -1,0 +1,8 @@
+{
+  "name": "reactoto",
+  "version": "1.0.0",
+  "devDependencies": {
+    "webpack": "^4.21.0",
+    "webpack-dev-server": "^3.1.9"
+  }
+}
